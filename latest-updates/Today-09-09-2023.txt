@@ -1,7 +1,0 @@
-CVE-2023-3519: CISA released an update warning network defenders about threat actors exploiting this CVE.
-CVE-2023-41256: This is a critical vulnerability that allows arbitrary code execution in multiple Apple products.
-CVE-2023-2163: This CVE needs triage for Ubuntu 18.04 ELS.
-CVE-2023-0179: This is a buffer overflow vulnerability in the Linux Kernel's Netfilter subsystem.
-CVE-2023-4528: This Java deserialization vulnerability affects all versions of JSCAPE MFT Server prior to 2023.1.9.
-CVE-2023-40306: This vulnerability was presented on September 9, 2023.
-FEDORA-2023-129178fd27: This is a security fix for CVE-2022-45061.
